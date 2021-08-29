@@ -1,4 +1,4 @@
-import time
+himport time
 import random
 
 
@@ -12,7 +12,7 @@ while (重复 == 0):
     time.sleep(1)
     print('载入配置')
     time.sleep(1)
-    print('114514')
+    print('配置名称')
     time.sleep(1)
     print('当前进度-0%')
     time.sleep(1)
